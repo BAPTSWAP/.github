@@ -1,10 +1,11 @@
-## BaptLabs - Driving innovation on Aptos
+## BaptSwap - The first DEX on Aptos to support fee-on-transfer tokens
 
-- [Documentation](https://docs.baptlabs.com)
-- [Twitter](https://twitter.com/bapt_labs)
-- [Telegram](https://t.me/baptlabs)
+- [Application](https://baptswap.com)
 
-## BaptSwap - the first DEX on Aptos to support fee-on-transfer tokens
-
-- [Website](https://baptswap.com)
 - [DefiLlama](https://defillama.com/protocol/baptswap)
+  
+- [Documentation](https://docs.baptlabs.com)
+  
+- [Telegram](https://t.me/baptswap)
+
+- [X.com](https://twitter.com/baptswap)
