@@ -1,6 +1,6 @@
-## BaptSwap - The first DEX on Aptos to support fee-on-transfer tokens
+## BaptSwap - The first Protocol on Aptos with fee-on-transfer support for tokens
 
-- [Application](https://baptswap.com)
+- [Protocol](https://baptswap.com)
 
 - [DefiLlama](https://defillama.com/protocol/baptswap)
   
